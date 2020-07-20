@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monstersReact/static/css/main.100864ad.chunk.css",
-    "main.js": "/monstersReact/static/js/main.c52214d4.chunk.js",
-    "main.js.map": "/monstersReact/static/js/main.c52214d4.chunk.js.map",
+    "main.js": "/monstersReact/static/js/main.a443a732.chunk.js",
+    "main.js.map": "/monstersReact/static/js/main.a443a732.chunk.js.map",
     "runtime-main.js": "/monstersReact/static/js/runtime-main.3bda4662.js",
     "runtime-main.js.map": "/monstersReact/static/js/runtime-main.3bda4662.js.map",
     "static/js/2.0f1a2c81.chunk.js": "/monstersReact/static/js/2.0f1a2c81.chunk.js",
     "static/js/2.0f1a2c81.chunk.js.map": "/monstersReact/static/js/2.0f1a2c81.chunk.js.map",
     "index.html": "/monstersReact/index.html",
-    "precache-manifest.605660d39f87803bad7096c6e475928b.js": "/monstersReact/precache-manifest.605660d39f87803bad7096c6e475928b.js",
+    "precache-manifest.b03a23fe3281fad831088f7a31b2fe1d.js": "/monstersReact/precache-manifest.b03a23fe3281fad831088f7a31b2fe1d.js",
     "service-worker.js": "/monstersReact/service-worker.js",
     "static/css/main.100864ad.chunk.css.map": "/monstersReact/static/css/main.100864ad.chunk.css.map",
     "static/js/2.0f1a2c81.chunk.js.LICENSE.txt": "/monstersReact/static/js/2.0f1a2c81.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3bda4662.js",
     "static/js/2.0f1a2c81.chunk.js",
     "static/css/main.100864ad.chunk.css",
-    "static/js/main.c52214d4.chunk.js"
+    "static/js/main.a443a732.chunk.js"
   ]
 }
